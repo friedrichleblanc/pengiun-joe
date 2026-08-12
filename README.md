@@ -27,7 +27,7 @@ The main board contains the Esp32 processor, XC6220B331MR LDO ,MAX98357A amplifi
 
 Separated Microphone MODULE was designed for the placement in shell.
 
-(<img src="Doc/Pengiun_Mic(ICS-43434).png" width="300">) (<img src="Doc/Pengiun_Mic(Back)(ICS-43434).png" width="300">) 
+(<img src="Doc/Penguin_Mic(ICS-43434).png" width="300">) (<img src="Doc/Penguin_Mic(Back)(ICS-43434).png" width="300">) 
 
 ## Future Improvements
 
