@@ -10,7 +10,7 @@ Penguin Joe uses a two-board modular architecture:
 Audio in → ESP32 → Cloud APIs → Audio out → Speaker.
 
 This two modules connects to each other by 6-pin, 0.5 mm-pitch FFC/FPC connector and cable.
-[Main](HardwareDesignDecisions.md)
+[For more Information](HardwareDesignDecisions.md)
 ### Schematics 
 [Main](Processor.pdf)  
 
