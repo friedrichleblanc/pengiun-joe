@@ -30,5 +30,5 @@ Separated Microphone MODULE was designed for the placement in shell.
 (<img src="Doc/Penguin_Mic(ICS-43434).png" width="300">) (<img src="Doc/Penguin_Mic(Back)(ICS-43434).png" width="300">) 
 
 ## Future Improvements
-
+will fix the silk-screen in back of the board has type(Pengiun joe instead of penguin)
 Will add functioning body parts and modules for that design. 
