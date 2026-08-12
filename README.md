@@ -31,4 +31,4 @@ Separated Microphone MODULE was designed for the placement in shell.
 
 ## Future Improvements
 
-Will add functioning body parts and modules for that designed . 
+Will add functioning body parts and modules for that design. 
