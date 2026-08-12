@@ -5,9 +5,12 @@
 It is good to have companion with you while coding, wathing or ext. And what if that companion is an Pengiun joe?
 
 ## Hardware
-
 Penguin Joe uses a two-board modular architecture:
+
+Audio in → ESP32 → Cloud APIs → Audio out → Speaker.
+
 This two modules connects to each other by 6-pin, 0.5 mm-pitch FFC/FPC connector and cable.
+
 ### Schematics 
 [Main](Processor.pdf)  
 
