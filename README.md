@@ -7,9 +7,12 @@ It is like to have companion with you while coding, wathing or ext. And what if 
 ## Hardware
 
 Penguin Joe uses a two-board modular architecture:
-
+This two modules connects to each other by 6-pin, 0.5 mm-pitch FFC/FPC connector and cable.
 ### Schematics 
-[Microphone](docs/ICS-43434 Microphone.pdf)
+[Main](Processor.pdf)  
+
+[Microphone](docs/ICS-43434_Microphone.pdf)
+
 ### Main Board
 
 The main board contains the Esp32 processor, XC6220B331MR LDO ,MAX98357A amplifier.
@@ -23,3 +26,7 @@ Board uses 5V@2A for amplifier and 3.3v@1A for other components.
 Separated Microphone MODULE was designed for the placement in shell.
 
 (<img src="Doc/Pengiun_Mic(ICS-43434).png" width="300">) (<img src="Doc/Pengiun_Mic(Back)(ICS-43434).png" width="300">) 
+
+## Future Improvements
+
+Will add functioning body parts and modules for that designed . 
