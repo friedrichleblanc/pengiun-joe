@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,0.1uF,
+J2,Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal,1,Conn_01x06_Pin,
+MK1,InvenSense_ICS-43434-6_3.5x2.65mm,1,ICS-43434,
+R1,0603,1,100K,
