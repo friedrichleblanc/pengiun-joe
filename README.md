@@ -1,8 +1,8 @@
-# Pengiun-joe
+# Penguin-joe
 ## Esp32 based talk-back bot features external custom microphone module.
 ## Description 
 ### Motivation
-It is good to have companion with you while coding, wathing or ext. And what if that companion is an Pengiun joe?
+It is good to have companion with you while coding, wathing or ext. And what if that companion is an Penguin joe?
 
 ## Hardware Design Decisions
 Penguin Joe uses a two-board modular architecture:
