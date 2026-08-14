@@ -4,7 +4,7 @@
 
 ### Main MCU Esp32-wrooom-32u
 
-This board was selected due to having option use external antenna that will help to capture signals outside of the shell.
+This board was selected due to having optional use of external antenna that will help capture signals outside of the shell.
 
 ### Stackup
 
@@ -38,7 +38,7 @@ MAX98357A was selected due to its low cost.
 
 ### Hirose FH12 
 
-You maybe familiar with similar connector used in PS4 controllers. It was used to connect board to microphone board.
+You may be familiar with similar connector used in PS4 controllers. It was used to connect board to microphone board.
 
 ## Microphone board
 
@@ -48,4 +48,4 @@ ICS-43434 is used due to its excellent sound capturing abilities:)
 
 ### Hirose FH12 
 
-You maybe familiar with similar connector used in PS4 controllers. It was used to connect microphone to the main board.
+You may be familiar with similar connector used in PS4 controllers. It was used to connect microphone to the main board.
